@@ -1,0 +1,18 @@
+[
+  {
+    "currency": "USD",
+    "value": 1
+  },
+  {
+    "currency": "ILS",
+    "value": 0.27
+  },
+  {
+    "currency": "GBP",
+    "value": 1.27
+  },
+  {
+    "currency": "EUR",
+    "value": 1.09
+  }
+]
